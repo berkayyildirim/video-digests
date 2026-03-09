@@ -2,4 +2,4 @@
 
 | Date | Title | File |
 |------|-------|------|
-| Unknown | US Considers Permits for Global Nvidia, AMD AI Chip Sales | Bloomberg Tech 3/6/2026 | [2026-03-08-us-considers-permits-for-global-nvidia-amd-ai-chip-sales-bloomberg-tech-3-6-2026.md](./2026-03-08-us-considers-permits-for-global-nvidia-amd-ai-chip-sales-bloomberg-tech-3-6-2026.md) |
+| 2024-12-19 | The Money Expert: From $0 to Millions In 2 Years Without Any Hard Work!: Codie Sanchez | E258 | [2024-12-19-the-money-expert-from-0-to-millions-in-2-years-without-any-hard-work-codie-sanch.md](./2024-12-19-the-money-expert-from-0-to-millions-in-2-years-without-any-hard-work-codie-sanch.md) |
